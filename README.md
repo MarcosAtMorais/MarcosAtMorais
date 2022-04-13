@@ -1,8 +1,5 @@
-## Hey! Marcos here 🚀
+## 🚀 &nbsp;Hey! Marcos here
 
-<br><br>
-
-## 🛠 &nbsp;Main Focus
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
 ![Obj-C](https://img.shields.io/badge/-ObjC-05122A?style=flat&logo=ObjectiveC)&nbsp;
