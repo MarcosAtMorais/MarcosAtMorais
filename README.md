@@ -1,4 +1,4 @@
-## 🚀 &nbsp;Hey! Marcos here
+## 🚀 &nbsp;Hey, there! Marcos here.
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
